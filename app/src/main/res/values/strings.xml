@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QRcodegen</string>
+    <string name="qr_gen_name">Refreshments</string>
+</resources>
